@@ -1,6 +1,6 @@
-# Vue.js WordPress Master Standar
+# Vue.js WordPress Master Standar Plugin
 
-A WordPress [Vue.js](https://vuejs.org/) starter plugin improved standard vue.js Plugin 😬
+A WordPress [Vue.js](https://vuejs.org/) starter plugin improved standard vue.js 😬
 
 ## 📦 What it ships with?
 
